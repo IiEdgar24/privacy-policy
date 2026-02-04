@@ -21,4 +21,4 @@ We use the information collected from your store to:
 We retain your information only for as long as necessary to provide you with our services and as described in this Privacy Policy.
 
 ## 5. Contact Us
-For more information about our privacy practices, please contact us by e-mail at: **[这里填你的客服邮箱]**
+For more information about our privacy practices, please contact us by e-mail at: **td@taotens.com**
